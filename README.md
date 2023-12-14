@@ -15,9 +15,19 @@ These instructions will get you a copy of the project up and running on your loc
 ```shell
  git clone https://github.com/t-ega/Terader-Movie-Hub-Telegram-Bot.git
 ```
-2. Install the required libraries by running pip install -r requirements.txt
-3. Add your Telegram Bot API Token in the config.py file
-4. Run the script with python main.py
+2. Install the required libraries by running
+```shell
+ pip install -r requirements.txt
+```
+3. Add your Telegram Bot API Token in
+```shell
+ config.py
+```
+4. Run the script with 
+
+```shell
+python main.py
+```
 
 # Usage
 1. Start a chat with the bot
@@ -33,9 +43,6 @@ This bot can be deployed on a hosting service that supports Python, such as Hero
 - Telegram Bot API - API for Telegram Bots
 - Python Telegram Bot - Python wrapper for Telegram Bot API
 - requests - Python Library for making HTTP requests
-
-# Authors
-Akpojiyovwi Tega
 
 # Acknowledgments
 www.themoviedb.org for all movie details and api
