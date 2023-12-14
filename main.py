@@ -47,7 +47,7 @@ LinksCache = {}
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
-        'Welcome To Terader Movie Hub the place where movie links meet!..../usage if you are having issues.')
+        'Welcome To Movie Hub the place where movie links meet!..../usage if you are having issues.')
 
 
 async def callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -57,7 +57,7 @@ async def callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     result = await chat
     if result.status == 'left':
         await update.message.reply_text('You have to be on the telegram channel first!')
-        await update.message.reply_text(parse_mode='HTML', text='https://t.me/teradermoviehub')
+        await update.message.reply_text(parse_mode='HTML', text='https://t.me/sm_on_top')
         raise ApplicationHandlerStop
 
 
