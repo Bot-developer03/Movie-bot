@@ -12,7 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 # Installing
 1. Clone the repository by running the command
 
-```shell git clone https://github.com/t-ega/Terader-Movie-Hub-Telegram-Bot.git
+```shell
+ git clone https://github.com/t-ega/Terader-Movie-Hub-Telegram-Bot.git
 ```
 2. Install the required libraries by running pip install -r requirements.txt
 3. Add your Telegram Bot API Token in the config.py file
