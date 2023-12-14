@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ```shell
  git clone https://github.com/bot-developer03/Movie-Bot.git
 ```
-````
+```
 cd Movie-Bot
 ```
 2. Install the required libraries by running
