@@ -51,3 +51,14 @@ This bot can be deployed on a hosting service that supports Python, such as Hero
 www.themoviedb.org for all movie details and api
 # Note
 It is **illegal** to download copyrighted material without permission
+
+## Dev Details 👤:
+<p align="middle">
+<img src="https://telegra.ph/file/2a3eab01d1201f40b3ffc.jpg" width="150" height="150"><br>
+<img src="https://badgen.net/badge/Name/Anonymous/FF33FF?icon=awesome&labelColor=0080FF"></a>
+<img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
+<a href="https://github.com/bot-developer03"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
+<a href="https://youtube.com/the_developer03"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<p align="left">
+</p>
+
